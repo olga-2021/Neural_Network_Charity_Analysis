@@ -2,9 +2,9 @@
 
 The purpose of this project is to use Neural networks with the TensorFlow platform in Python, in order to analyze and classify the success of charitable donations. For this analysis Alphabet Soup  has provided a dataset that contains various measures on 34,000 organizations. 
 We use the following methods for the analysis:
-•	Preprocessing the data for the neural network
-•	Compile, Train and Evaluate the Model
-•	Optimizing the model
+- Preprocessing the data for the neural network
+- Compile, Train and Evaluate the Model
+- Optimizing the model
 
 ## Results
 
