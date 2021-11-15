@@ -11,7 +11,7 @@ We use the following methods for the analysis:
 ### Data Preprocessing
 
 1. Variable that was considered as the target for my model: IS_SUCCESSFUL column.
-2. Variables that were considered features for my model:  All columns except IS_SUCCESSFUL column that has been dropped. 
+2. Variables that were considered features for my model: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT.
 3. Variable that were neither targets or features for the dataset: EIN and NAME columns have been dropped because they have little to no impact on the outcome.
 
 ### Compiling, Training, and Evaluating the Model
