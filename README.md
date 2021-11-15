@@ -33,7 +33,7 @@ The target performance was 75%. The accuracy of my model is 72%.
 
 6. What steps were taken to try and increase model performance?
 
-I changed the activation function for first and second layer to sigmoind. Also I have increased the number of epochs to 200. 
+I changed the activation function for first and second layers to sigmoind. Also I have increased the number of epochs to 200. 
 
 <img src="https://i.ibb.co/JBySPSY/3-sigmoind.png" alt="3-sigmoind" border="0">
 
