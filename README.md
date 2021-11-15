@@ -26,7 +26,7 @@ The model is made with an input features & two hidden layers.
 <img src="https://i.ibb.co/W2kn1dd/1-relu.png" alt="1-relu" border="0"> 
 
 5. Was the model able to achieve the target model performance?
-6.
+
 The target performance was 75%. The accuracy of my model is 72%. 
 
 <img src="https://i.ibb.co/VTDJ02L/2-accuracy.png" alt="2-accuracy" border="0">
