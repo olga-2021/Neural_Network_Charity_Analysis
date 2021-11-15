@@ -31,9 +31,12 @@ The target performance was 75%. The accuracy of my model is 72%.
 
 <img src="https://i.ibb.co/VTDJ02L/2-accuracy.png" alt="2-accuracy" border="0">
 
+6. What steps were taken to try and increase model performance?
 
+I changed the activation function for first and second layer to sigmoind. Also I have increased the number of epochs to 200. 
 
 <img src="https://i.ibb.co/JBySPSY/3-sigmoind.png" alt="3-sigmoind" border="0">
 
+Despite of all changes that have been made the accuracy of the model hasn’t increased. It is still at 72%.
 
 <img src="https://i.ibb.co/txm8FDG/4-accuracy.png" alt="4-accuracy" border="0">
