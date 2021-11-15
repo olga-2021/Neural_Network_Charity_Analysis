@@ -40,3 +40,8 @@ I changed the activation function for first and second layers to sigmoind. Also 
 Despite of all changes that have been made the accuracy of the model hasn’t increased. It is still at 72%.
 
 <img src="https://i.ibb.co/txm8FDG/4-accuracy.png" alt="4-accuracy" border="0">
+
+## Summary
+
+I wasn't able to reach out the target performance of 75% for this model. For a better accuracy i would recomend to use Suport Vector Machines or Random Forest models. Both models have a highh accurace rate and are considered among the best models for classification problems. 
+
