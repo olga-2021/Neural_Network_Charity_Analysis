@@ -22,7 +22,7 @@ The model is made with an input features & two hidden layers.
 - First hidden layer has 80 neurons and a relu activation function
 - Second hidden layer has 30 neurons and a relu activation function
 - The output layer has a sigmoind function
-- 
+
 <img src="https://i.ibb.co/W2kn1dd/1-relu.png" alt="1-relu" border="0"> 
 
 5. Was the model able to achieve the target model performance?
