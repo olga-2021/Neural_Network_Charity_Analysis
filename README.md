@@ -9,20 +9,31 @@ We use the following methods for the analysis:
 ## Results
 
 ### Data Preprocessing
-•	Variable that was considered as the target for my model: IS_SUCCESSFUL column.
-•	Variables that were considered features for my model:  All columns except IS_SUCCESSFUL column that has been dropped. 
-•	Variable that were neither targets or features for the dataset: EIN and NAME columns have been dropped because they have little to no impact on the outcome.
+
+1. Variable that was considered as the target for my model: IS_SUCCESSFUL column.
+2. Variables that were considered features for my model:  All columns except IS_SUCCESSFUL column that has been dropped. 
+3. Variable that were neither targets or features for the dataset: EIN and NAME columns have been dropped because they have little to no impact on the outcome.
 
 ### Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model
+
+4. How many neurons, layers, and activation functions did you select for your neural network model?
+
 The model is made with an input features & two hidden layers. 
-•	First hidden layer has 80 neurons and a relu activation function
-•	Second hidden layer has 30 neurons and a relu activation function
-•	The output layer has a sigmoind function
+- First hidden layer has 80 neurons and a relu activation function
+- Second hidden layer has 30 neurons and a relu activation function
+- The output layer has a sigmoind function
+- 
 <img src="https://i.ibb.co/W2kn1dd/1-relu.png" alt="1-relu" border="0"> 
-Was the model able to achieve the target model performance?
+
+5. Was the model able to achieve the target model performance?
+6.
 The target performance was 75%. The accuracy of my model is 72%. 
+
 <img src="https://i.ibb.co/VTDJ02L/2-accuracy.png" alt="2-accuracy" border="0">
 
+
+
 <img src="https://i.ibb.co/JBySPSY/3-sigmoind.png" alt="3-sigmoind" border="0">
+
+
 <img src="https://i.ibb.co/txm8FDG/4-accuracy.png" alt="4-accuracy" border="0">
